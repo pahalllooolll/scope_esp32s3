@@ -1,7 +1,6 @@
 # Oscilloscope_on_esp32s3
 <img width="4096" height="2304" alt="IMG_20260531_141510163" src="https://github.com/user-attachments/assets/ec5402aa-a183-432e-b2ae-07f557459785" />
-My oscilloscope on esp32 s3.    
-Мой осциллограф на esp32 s3.
+My oscilloscope on esp32 s3 мой осциллограф на esp32 s3.
 # Update code (обновления кода)
 Nothing now.
 Ничего.
