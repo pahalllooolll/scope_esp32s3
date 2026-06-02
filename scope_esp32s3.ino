@@ -20,7 +20,7 @@ Adafruit_NeoPixel led(1, 48, NEO_GRB + NEO_KHZ800);
 
 #define TEST_WAVE_PIN 42  
 #define TFT_BL_PIN    38     
-#define BUZZER_PIN    35     // <-- ПИН ПИЩАЛКИ (замени, если используешь другой)
+#define BUZZER_PIN    35     // <-- ПИН ПИЩАЛКИ
 
 bool lastStateUP    = HIGH;
 bool lastStateDOWN  = HIGH;
