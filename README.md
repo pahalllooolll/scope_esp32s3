@@ -1,4 +1,4 @@
-# Scope_on_esp32s3 3.1 and st7789 170x320
+# Scope_on_esp32s3 4.0 and st7789 170x320
 <img width="4096" height="2304" alt="IMG_20260531_141510163" src="https://github.com/user-attachments/assets/ec5402aa-a183-432e-b2ae-07f557459785" />
 My oscilloscope on esp32 s3 
 мой осциллограф на esp32 s3.
@@ -6,7 +6,8 @@ My oscilloscope on esp32 s3
 # Update code (обновления кода)
 <img width="4096" height="2304" alt="IMG_20260602_111340596" src="https://github.com/user-attachments/assets/d3d8d82b-0e88-4ed4-ae89-9974d0b25a69" />
 fixing:
-animation
+scope
+add: bizzer , theme , v-div , COUPLING ,triger mode , custom line
 # Control (управление)
 
 # normal mode
