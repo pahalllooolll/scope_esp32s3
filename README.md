@@ -3,10 +3,11 @@
 My oscilloscope on esp32 s3 мой осциллограф на esp32 s3.
 
 # Update code (обновления кода)
+<img width="4096" height="2304" alt="IMG_20260602_111340596" src="https://github.com/user-attachments/assets/d3d8d82b-0e88-4ed4-ae89-9974d0b25a69" />
 fixing:
 not work 10hz and 100hz
 Add:
-new ui , control and multitasking scope
+new ui , control , multitasking scope and 
 khinkali mode (in setting)
 # Control (управление)
 # normal mode
