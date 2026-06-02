@@ -10,9 +10,8 @@ animation
 # Control (управление)
 
 # normal mode
-up = open setting
+up/down = open setting
 left/right = speed
-down = hold
 
 # setting mode
 up/down = swich items
