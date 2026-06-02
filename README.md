@@ -10,10 +10,12 @@ Add:
 new ui , control , multitasking scope and 
 khinkali mode (in setting)
 # Control (управление)
+
 # normal mode
 up = open setting
 left/right = speed
 down = hold
+
 # setting mode
 up/down = swich items
 left/right = change value/open
