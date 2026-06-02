@@ -11,5 +11,6 @@ BTN_UP    41
 BTN_DOWN  40
 BTN_LEFT  39
 BTN_RIGHT 37
-
+btn ok 36
 hz generator pin 42  
+bizzer 35
